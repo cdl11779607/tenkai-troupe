@@ -22,6 +22,8 @@
     "@types/react-dom": "^18.0.11",
     "@umijs/plugins": "^4.4.6",
     "commitizen": "^4.3.0",
+    "commitlint-config-cz": "^0.13.3",
+    "cz-conventional-changelog": "^3.3.0",
     "cz-customizable": "^7.0.0",
     "prettier": "^2.8.8",
     "prettier-plugin-organize-imports": "^3.2.2",
